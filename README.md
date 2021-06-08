@@ -6,7 +6,7 @@
 TEMPO ESTIMADO DE RESOLUÇÃO: **30~45min**
 
 ## **Instruções**
-Você deve enviar por e-mail um arquivo informando as modificações necessárias no código para atender aos requisitos exigidos.
+Você deve enviar por e-mail, em forma de texto, sugestões para tornar o código melhor de forma a atender aos requisitos exigidos.
 
 ## **Requisitos**
 O código não deve possuir falhas que comprometam os seguintes itens:
