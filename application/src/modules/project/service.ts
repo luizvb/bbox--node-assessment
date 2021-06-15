@@ -15,9 +15,7 @@ class ProjectService {
     const user = await User.findOne({ uuid: body.userId });
     if (!user) throw new Error("User Not Found");
 
-    const findProject: Project = await Project.findOne({
-      description: body.description,
-    });
+    const findProject: Project = await Project.findOne({ description: body.description });
     if (findProject) throw new Error("Project exists");
 
     const project: Project = Project.create({
